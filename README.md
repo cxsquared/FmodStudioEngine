@@ -1,3 +1,3 @@
 # FmodStudioEngine
 
-A sipmle implementation of the FMOD Studio Api.
+A simple implementation of the FMOD Studio Api. Based on GDC talk from Guy Somberg
